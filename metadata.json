@@ -1,0 +1,9 @@
+{
+  "name": "Guardian Companion App",
+  "description": "A parental control companion application for a child's device. It provides location tracking, communication, app management, and safety features like an SOS button, all managed by a parent's device.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
